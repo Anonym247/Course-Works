@@ -1,0 +1,13 @@
+C:\Users\magik\Desktop\C# Projects Karan\IB\Kol2\DES\DES_Algorithm\DES_Algorithm\bin\Debug\DES_Algorithm.exe.config
+C:\Users\magik\Desktop\C# Projects Karan\IB\Kol2\DES\DES_Algorithm\DES_Algorithm\bin\Debug\DES_Algorithm.exe
+C:\Users\magik\Desktop\C# Projects Karan\IB\Kol2\DES\DES_Algorithm\DES_Algorithm\bin\Debug\DES_Algorithm.pdb
+C:\Users\magik\Desktop\C# Projects Karan\IB\Kol2\DES\DES_Algorithm\DES_Algorithm\obj\Debug\DES_Algorithm.csprojResolveAssemblyReference.cache
+C:\Users\magik\Desktop\C# Projects Karan\IB\Kol2\DES\DES_Algorithm\DES_Algorithm\obj\Debug\DES_Algorithm.Form1.resources
+C:\Users\magik\Desktop\C# Projects Karan\IB\Kol2\DES\DES_Algorithm\DES_Algorithm\obj\Debug\DES_Algorithm.Properties.Resources.resources
+C:\Users\magik\Desktop\C# Projects Karan\IB\Kol2\DES\DES_Algorithm\DES_Algorithm\obj\Debug\DES_Algorithm.csproj.GenerateResource.Cache
+C:\Users\magik\Desktop\C# Projects Karan\IB\Kol2\DES\DES_Algorithm\DES_Algorithm\obj\Debug\DES_Algorithm.exe
+C:\Users\magik\Desktop\C# Projects Karan\IB\Kol2\DES\DES_Algorithm\DES_Algorithm\obj\Debug\DES_Algorithm.pdb
+C:\Users\magik\Desktop\C# Projects Karan\IB\Kol2\DES\DES_Algorithm\DES_Algorithm\bin\Debug\DES_Algorithm.exe.manifest
+C:\Users\magik\Desktop\C# Projects Karan\IB\Kol2\DES\DES_Algorithm\DES_Algorithm\bin\Debug\DES_Algorithm.application
+C:\Users\magik\Desktop\C# Projects Karan\IB\Kol2\DES\DES_Algorithm\DES_Algorithm\obj\Debug\DES_Algorithm.exe.manifest
+C:\Users\magik\Desktop\C# Projects Karan\IB\Kol2\DES\DES_Algorithm\DES_Algorithm\obj\Debug\DES_Algorithm.application
