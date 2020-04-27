@@ -2,7 +2,7 @@
 
 DES Encryption and Description Algorithm Open Source for students, course workers and etc. There is an 16 rounded encryption algorithm. 
 
-#########################  Algorithm  Steps #########################################################################
+#########################  Algorithm  Steps ##################################
 
 
 How DES Works in Detail
